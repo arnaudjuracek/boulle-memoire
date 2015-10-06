@@ -1,2 +1,5 @@
-# memoire
-Boîte Noire — Boulle 2015/16
+## auteur
+Arnaud Juracek
+
+## licence
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
