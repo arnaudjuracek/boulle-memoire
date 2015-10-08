@@ -8,11 +8,11 @@
 - production & algorithme : une esthétique algorithmique ?
 - conclusion
 
-`préface + introduction` 8k signes
-`tables des matières` 300 signes
-`résumé` 700 signes
-`corps du mémoire` 40k ~ 50k signes
-`conlusion` 7k signes
+`préface + introduction` 8k signes  
+`tables des matières` 300 signes  
+`résumé` 700 signes  
+`corps du mémoire` 40k ~ 50k signes  
+`conlusion` 7k signes  
 `total` 60k signes +/- 15%
 
 ###Préface
