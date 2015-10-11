@@ -1,5 +1,6 @@
-### Bibliographie
+## Bibliographie
 
+## Livres 
 Karl Gerstner, **'Designing Programmes'**, 1964, ré-édition 2007, `isbn: 978-3037780930`
 > Karl Gerstner’s work is a milestone in the history of design. One of his most important works is Designing Programmes, which is presented here in a new edition of the original 1964 publication. In four essays, the author provides a basic introduction to his design methodology. Instead of set recipes, the method suggests a model for design in the early days of the computer era.
 > The intellectual models it proposes, however, continue to be useful today. What it does not purvey is cut-and-dried, true-or-false solutions or absolutes of any kind - instead, it develops fundamental principles in an innovative and future-oriented way. The book is especially topical and exciting in the context of current developments in computational design, which seem to hold out the possibility of programmed design. With many examples from the worlds of graphic and product design, music, architecture, and art, it inspires the reader to seize on the material, develop it further, and integrate it into his or her own work.
@@ -19,7 +20,7 @@ Edgar Morin, **`Introduction à la pensée complexe`**, 2005
 
 Ludwig Wittgenstein, **'Tractacus Logico-Philosophicus'**, `isbn:978-1602064515`
 
-### Articles
+## Articles
 
 Hubert Guillaud, **'[La conception algorithmique automatise-t-elle nos vies ?](http://internetactu.blog.lemonde.fr/2014/03/14/la-conception-algorithmique-automatise-t-elle-nos-vies/)'**, *in* Internet Actu, mars 2014
 
@@ -32,3 +33,29 @@ Tasneem Raja, **'[Is coding the new literacy ?](http://www.motherjones.com/media
 Berkeley J. Dietvorst & Joseph P. Simmons & Cade Massey, **'[Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466040)'**, University of Pennsylvania - The Wharton School, juin 2014
 
 Richard Hollis, **'[The Design as Progammer](http://www.eyemagazine.com/review/article/the-designer-as-programmer)'**, *in* Eye no. 43 vol. 11, 2002
+
+Brett Victor, **'[Up and down the ladder of abstraction](http://worrydream.com/#!2/LadderOfAbstraction)'**, 2011
+
+Paul Ford, **'[WHAT IS CODE ?!](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)'**, *in* Bloomberg Business, juin 2015
+
+Mike Bostock, **'[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)'**, juin 2014
+
+Dan Williams, **'[Walking with algorithms](http://www.iamdanw.com/said/algocult/)'**, février 2014
+
+Olivier ErtzscheidUTHOR, **'[Les Coolies de la pop économie. Quand les humains travailleront pour les algorithmes.](http://affordance.typepad.com/mon_weblog/2015/06/les-coolies-de-la-pop-economie.html)'**, *in* affordance.info, juin 2015
+
+Philippe Flajolet & Etienne Parizot, **'[Qu’est-ce qu’un algorithme ?](https://interstices.info/jcms/c_5776/quest-ce-quun-algorithme)'**, *in* interstices.info, février 2004
+
+How Staff, **'[Gestalt Theory in Typography & Design Principles](http://www.howdesign.com/resources-education/online-design-courses-education/gestalt-theory-typography-design-principles/)'**, *in* howdesign.com, mai 2015
+
+Ken Mazaika, **'[When the heck did learning to code become cool? (And why it sucks to be a beginner today…)](https://medium.com/techspiration-ideas-making-it-happen/when-the-heck-did-learning-to-code-become-cool-2e953f1c5efb)'**, *in* Medium, mai 2015
+
+Nick De Mey, **'[The Big Facebook-experiment you didn’t notice in 2014](https://medium.com/@nickdemey/the-big-facebook-experiment-you-didnt-notice-in-2014-by-nickdemey-26e3cb3115e2)'**, *in* Medium, janvier 2015
+
+Dominique Cunin, **'[Programmation visuelle: État des lieux](http://enjeuxdudesigngraphique.fr/programmation-visuelle-etat-des-lieux-2/)'**, *in* enjeuxdudesigngraphique, novembre 2014 
+
+Jean Noël Lafargue, **'[Machines hostiles](http://www.monde-diplomatique.fr/2011/07/LAFARGUE/20788)'**, *in* Le Monde Diplomatique, juillet 2011
+
+NICHOLAS O'BRIEN, **'[Are Algorithms Conceptual Art’s Next Frontier?](https://www.artsy.net/article/nicholas-o-brien-are-algorithms-conceptual-art-s-next-frontier)'**, *in* artsy.net, mars 2015
+
+Rune Madsen, **'[ON META-DESIGN AND ALGORITHMIC DESIGN SYSTEMS](http://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/)'**, février 2015
