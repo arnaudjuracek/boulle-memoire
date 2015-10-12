@@ -3,7 +3,7 @@
 - préface
 - introduction
 - société & algorithme
-- _**entre-propos** : principes alogirithmiques fondamentaux_
+- _**entre-propos** : principes algorithmiques fondamentaux_
 - individu & algorithme
 - production & algorithme : une esthétique algorithmique ?
 - conclusion
