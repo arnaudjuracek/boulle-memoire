@@ -1,25 +1,55 @@
 ## Bibliographie
 
 ## Livres 
-Karl Gerstner, **'Designing Programmes'**, 1964, ré-édition 2007, `isbn: 978-3037780930`, `@PDF`
+Karl Gerstner, **'Designing Programmes'**, 1964, ré-édition 2007
+```
+isbn: 978-3037780930
+@PDF
+```
 
-Dominique Cardon, **'A quoi rêvent les algorithmes: Nos vies à l'heure des big data'**, 2015, `asin: B0158V34NA`
+Dominique Cardon, **'A quoi rêvent les algorithmes: Nos vies à l'heure des big data'**, 2015
+```
+asin: B0158V34NA
+```
 > Google, Facebook, Amazon, mais aussi les banques et les assureurs : la constitution d’énormes bases de données (les « big data ») confère une place de plus en plus centrale aux algorithmes. L’ambition de ce livre est de montrer comment ces nouvelles techniques de calcul bouleversent notre société. À travers le classement de l’information, la personnalisation publicitaire, la recommandation de produits, le ciblage des comportements ou l’orientation des déplacements, les méga-calculateurs sont en train de s’immiscer, de plus en plus intimement, dans la vie des individus. Or, loin d’être de simples outils techniques, les algorithmes véhiculent un projet politique. Comprendre leur logique, les valeurs et le type de société qu’ils promeuvent, c’est donner aux internautes les moyens de reprendre du pouvoir dans la société des calculs.Dominique Cardon est sociologue au Laboratoire des usages d’Orange Labs et professeur associé à l’université de Marne-la-Vallée (LATTS). Avec La Démocratie Internet (Seuil, 2010) et de nombreux articles, il s’est imposé comme l’un des meilleurs spécialistes du numérique et d’Internet.
 
 Olivier Botar,  **'Sensing the Future: Moholy-Nagy'**, Media and the Arts
 
 Stéphane Vial, **'L'être et l'écran'**, 2013
 
-Andrew Blauvelt & Koert Van Mensvoort, **'Conditional Design: Workbook'**, 2013, `isbn: 978-9078088585`
+Andrew Blauvelt & Koert Van Mensvoort, **'Conditional Design: Workbook'**, 2013
+```
+isbn: 978-9078088585
+```
 
-John Maeda, **'Design by Numbers'**, 2001, `isbn: 978-0262632447`
-John Maeda, **'Code de création'**, 2001, `isbn: 2-87811-246-6`, `@BPI: 704-821 MAE`
+John Maeda, **'Design by Numbers'**, 2001
+```
+isbn: 978-0262632447
+```
 
-Alan Turing, **'Computing Machinery and Intelligence'**, 1950, `asin: B0007KFTH2`, `@BPI: 510.1 TUR`
+John Maeda, **'Code de création'**, 2001
+```
+isbn: 2-87811-246-6
+@BPI: 704-821 MAE
+```
 
-Edgar Morin, **`Introduction à la pensée complexe`**, 2005, `@home`
+Alan Turing, **'Computing Machinery and Intelligence'**, 1950
+```
+asin: B0007KFTH2
+@BPI: 510.1 TUR
+@PDF
+```
 
-Ludwig Wittgenstein, **'Tractacus Logico-Philosophicus'**, `isbn:978-1602064515`, `@BPI: 1"4" WITT 2`
+Edgar Morin, **`Introduction à la pensée complexe`**, 2005
+```
+@home
+```
+
+Ludwig Wittgenstein, **'Tractacus Logico-Philosophicus'**
+```
+isbn:978-1602064515
+@BPI: 1"4" WITT 2
+```
 
 ## Articles
 
