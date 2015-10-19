@@ -23,6 +23,8 @@
 
 ###Entre-propos
 L'idée est de définir les principes fondamentaux de l'algorithme et les notions clefs (input, finité, feedback, loop, ...) en grandes parties, et de se servir de ce travail de définition pour la suite du mémoire, à la manière de John Maeda dans *'De la Simplicité'*.
+- random number generator
+> la simulation de l'aléatoire en informatique est généré par des sous-fonctions. Exemple du micro-time d'un processeur, utilisation de jeux de données non-liées (données météorologiques, etc...). Voir le projet [rnd.farm](http://rnd.farm/)
 
 ###II — Individu & algorithme
 Structuralisme & vision Gestaltique ?
