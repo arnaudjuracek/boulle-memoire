@@ -29,7 +29,7 @@
 
 > By observing the results of its own behaviour it can modify its own programmes so as to achieve some purpose more effectively. These are possibilities of the near future, rather than Utopian dreams.
 
-###Learning Machines
+##Learning Machines
 > [Could] a machine can "never do anything really new" [?]
 > A better variant [...] says that a machine can never "take us by surprise."
 
