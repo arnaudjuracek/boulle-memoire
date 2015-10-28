@@ -30,6 +30,7 @@ L'idée est de définir les principes fondamentaux de l'algorithme et les notion
 Structuralisme & vision Gestaltique ?
 
 ###III — Production & algorithme
+L'algorithme dans le design — article clef : http://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/
 Une esthétique algorithmique ?  
 Une question de process plutôt que de produit
 
