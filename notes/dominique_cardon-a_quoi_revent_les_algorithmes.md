@@ -1,5 +1,16 @@
 #Dominique Cardon — À quoi rêvent les algorithmes : Nos vies à l’heure des *big data*
 
+##Passage à France Culture — La grande table
+> Il ne faut pas se laisser intimider, c’est vraiment ma position. Nous avons aujourd’hui une sorte d’attitude de repli en se disant, effectivement, ces boîtes noires, je suis incapable de les comprendre, ou de les ouvrir, et finalement je vais les laisser faire pour moi, en espérant qu’elles font au mieux pour moi.
+> La nouvelle culture numérique dans laquelle il faut qu’on entre, et dans laquelle il y a de la pédagogie, de l’éducation, et un rapport critique, c’est pas de comprendre les réseaux Bayésiens naifs, ni les chaînes de Markov ni les algorithmes compliqués, mais c’est d’avoir suffisamment de compréhension sur ce qu’ils essayent de nous faire faire, sur la manière dont ils travaillent. J’ai essayé de le faire de la façon la plus pédagogique et la plus simple possible pour qu’on puisse entrer dans un débat dans lequel on essaye de comprendre de l’intérieur ce qu’essayent de nous faire faire ces systèmes calculatoires plutôt que de les critiquer de l’extérieur, en réanimant cette chose que les sociologues des sciences et des techniques sont toujours un petit peu réticents à cette idée du partage entre l’humain et la machine ; nous formons couple avec elle, elle s’est inscrite dans nos vies, elle est un outil cognitif, intellectuel constant dans plein de nos activités. Et donc d’essayer d’éviter cette idée que les machines prennent notre place ou nous prenons la place des machines. D’essayer plutôt de comprendre dans la relation que nous avons avec ces machines, on peut essayer de les comprendre, de les décoder, et surtout aussi de leur proposer de calculer autrement, de faire autrement, et d’avoir un rapport stratégique avec elles. Et quand on regarde les usages, les utilisateurs ne sont pas si dociles et naïfs face aux artefacts techniques qui cherchent à les conduire et à la guider.
+— France culture, 9’32’’
+
+> La vocation du livre est pédagogique, c’est-à-dire qu’il ne faut pas voir le numérique comme un tout, mais le décomposer pour voir comment ses différentes parties interagissent avec nos vies. Décomposer les variables autour desquelles la « salade algorithmique » se compose. Il y a un enjeu là-dessus, qui est effectivement important : pour bien critiquer, il faut être capable d’entrer dans ces systèmes pour les comprendre. Ce qu’il ne faut pas dire qu’il faut coder en Python, ou être statisticien expert, mais entre les deux, il y a une zone de langage et d’exploration critique dans laquelle il faut s’aventurer réellement.
+> Être en position de réflexion face à ces usages, et être capable de les décoder.
+> On imagine toujours une sorte de docilité passive de l’utilisateur, toujours mené par le haut au travers des prescriptions qui lui sont faites.
+— France culture, 17’00’’
+
+
 ##Introduction — Comprendre la révolution des calculs
 
 

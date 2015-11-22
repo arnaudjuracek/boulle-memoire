@@ -1,5 +1,11 @@
-Apprendre à voir l’algorithme.
-Faut-il esthétiser l’algorithme ?
++ démarche personnelle
++ qu’est-ce qu’une boîte noire
++ problématique
++ forme de ce mémoire
+
+
+Enjeu : Apprendre à voir l’algorithme.
+Problématique : **Peut-on esthétiser l’algorithme ?**
 
 
 Descartes — le sensible, c’est la confusion
