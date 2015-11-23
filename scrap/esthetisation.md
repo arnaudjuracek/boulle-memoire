@@ -24,4 +24,5 @@ Descartes — le sensible, c’est la confusion
 > accéder aux choses sous le biais du langage
 > rapport à l’intuition
 
+
 Le poète manipule le langage dans un but esthétique. Esthétiser l’algorithme par la poésie algorithmique ?
