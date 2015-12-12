@@ -14,10 +14,10 @@ Ce résultat est une solution à un problème, que l’objet Algorithme est alor
 
 Un algorithme est une suite d’instructions non ambigües permettant d’arriver à un résultat ou de résoudre un problème (la solution au problème étant considérée comme le résultat de l’algorithme).
 Etymologie d’Al-Khwarizmi, mathématicien et savant perse du XVII° siècle, père de l’algèbre.
-Etymologiquement et historiquement, l’algorithme prend place dans le champs des mathématiques.
+Etymologiquement et historiquement, l’algorithme prend place dans le champ des mathématiques.
 Il fait alors référence à un système mathématique de calcul.
 L’algèbre étudie les structures de calcul, l’articulation entre les nombres.
-? L’algorithme concerne la désambiguation de méthode de calcul, par la décomposition systématique d’un processus en instructions simples.
+? L’algorithme concerne la désambïguation de méthode de calcul, par la décomposition systématique d’un processus en instructions simples.
 
 L’invention du métier à tisser Jacquard est souvent donné comme point de pivot dans l’histoire de l’algorithme, parce qu’elle défini un moment où l’algorithme est passé d’abstraction purement mathématique à un objet mécanique tangible.
 Elle permet d’offrir un second but à l’objet algorithme : l’algorithme n’est plus seulement descriptif d’une méthode, il devient un outil d’automatisation.
