@@ -33,3 +33,19 @@ Ils permettent l’automatisation de très nombreuses tâches qui nécessitaient
 Algorithmes d’HFT.
 Pathfinding d’un GPS.
 Algorithme de compression d’images.
+
+
+Trois définitions clefs :
+
+Donald Knuth (1938‒) lista les cinq propriétés suivantes comme étant les prérequis d'un algorithme :
+> la finitude : « Un algorithme doit toujours se terminer après un nombre fini d’étapes. »
+> définition précise : « Chaque étape d'un algorithme doit être définie précisément, les actions à transposer doivent être spécifiées rigoureusement et sans ambiguïté pour chaque cas. »
+> entrées : « … des quantités qui lui sont données avant qu'un algorithme ne commence. Ces entrées sont prises dans un ensemble d'objets spécifié. »
+> sorties : « … des quantités ayant une relation spécifiées avec les entrées. »
+> rendement : « … toutes les opérations que l'algorithme doit accomplir doivent être suffisamment basiques pour pouvoir être en principe réalisées dans une durée finie par un homme utilisant un papier et un crayon. »
+
+George Boolos (1940‒1996), philosophe et mathématicien, proposa la définition suivante :
+> « Des instructions explicites pour déterminer le nième membre d'un ensemble, pour n un entier arbitrairement grand. De telles instructions sont données de façon bien explicite, sous une forme qui puisse être utilisée par une machine à calculer ou par un humain qui est capable de transposer des opérations très élémentaires en symboles. »
+
+Gérard Berry (1948‒), chercheur en science informatique en donne la définition grand public suivante4:
+> « Un algorithme, c’est tout simplement une façon de décrire dans ses moindres détails comment procéder pour faire quelque chose5. Il se trouve que beaucoup d’actions mécaniques, toutes probablement, se prêtent bien à une telle décortication. Le but est d’évacuer la pensée du calcul, afin de le rendre exécutable par une machine numérique (ordinateur, …). On ne travaille donc qu’avec un reflet numérique du système réel avec qui l’algorithme interagit. »
