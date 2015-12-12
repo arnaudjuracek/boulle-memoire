@@ -24,6 +24,7 @@
 + Nuance : parfois les entrées et/ou sorties sont plus difficiles à distinguer, voir inexistantes.
 + Typologies (ou datatypes) : si les types de sorties sont à priori très nombreux (chiffres, sons, tableurs, vidéos, mouvement physique, etc), les types d’entrées se comptent sur les doigts d’une main (nombre, caractère, etc).
 + La majorité de ce qu’on pense pouvoir être considéré comme une entrée (une image, un texte, un mouvement) doit en fait être décomposé et/ou traduit en un type d’entrée exploitable par un ordinateur.
++ « The input is our material. Input engages logic and activates and influences the process. Input should come from our external and complex environment: nature, society and its human interactions. » — **Conditional Design manifesto**
 
 ###mapping
 + Définition du mapping comme de la transformation d’une entrée d’un type en une sortie d’un autre type (exemple : une suite de chiffres devient une suite de sons).

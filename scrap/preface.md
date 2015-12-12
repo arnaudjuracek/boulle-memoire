@@ -31,7 +31,7 @@ Pour autant, encastrer l’Algorithme dans une boîte noire ne permet pas de ré
 Je partage cependant son avis : il ne faut pas se laisser intimider, et chercher au contraire à ouvrir ces boîtes noires, aller chercher les algorithmes qui y habitent, et essayer de les décomposer, de les **disséquer** afin de les comprendre de *l’intérieur*.
 
 Ne vous laissez donc pas tromper par son titre : si ce mémoire parle de boîte noire, c’est pour prendre conscience du phénomène d’élusion du fonctionnement de l’Algorithme, et l’importance de ne pas simplement s’arrêter à l’analyse de ses entrées et sorties, mais bien de donner à voir ses mécanismes internes, et les notions fondamentales qu’il soulève.
-
+« 
 Et c’est là la démarche que je souhaite mener au travers de ce mémoire : offrir une analyse de ce qui fait d’un algorithme un algorithme, et étudier les concepts clefs ainsi que les questions qu’ils soulèvent : le principe de boucle, d’itérations, le rapport entrées/sorties, mais aussi l’erreur, l’aléatoire...
 
 
