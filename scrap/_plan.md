@@ -37,10 +37,10 @@
 + Si l’algorithme semble être défini comme linéaire (une méthode permettant, d’une entrée, d’arriver à une sortie en un nombre fini d’étapes), il peut également boucler.
 + trouver un exemple d’algorithme qui boucle.
 + closed feedback & autonomie
-+ **Permumations de Brion Gysin**, **Opalka ?**
++ **Permutations de Brion Gysin**, **Opalka ?**
 + [W.I.P]
 
-
+   
 ###code
 + Le langage premier de l’algorithme est le Code.
 + Aujourd’hui, la pratique de conception d’un algorithme est rapprochée à la pratique de la programmation.
