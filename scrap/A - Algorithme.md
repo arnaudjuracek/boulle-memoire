@@ -13,7 +13,7 @@ Ce résultat est une solution à un problème, que l’objet Algorithme est alor
 --
 
 Un algorithme est une suite d’instructions non ambigües permettant d’arriver à un résultat ou de résoudre un problème (la solution au problème étant considérée comme le résultat de l’algorithme).
-Etymologie d’Al-Khwarizmi, mathématicien et savant perse du XVII° siècle, père de l’algèbre.
+Etymologie d’Al-Khwarizmi, mathématicien et savant perse du VII° siècle, père de l’algèbre.
 Etymologiquement et historiquement, l’algorithme prend place dans le champ des mathématiques.
 Il fait alors référence à un système mathématique de calcul.
 L’algèbre étudie les structures de calcul, l’articulation entre les nombres.

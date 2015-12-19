@@ -11,11 +11,11 @@ Cette bibliothèque comporte ainsi l’ensemble des livres de 410 pages possible
 La bibliothèque de Babel est un objet tautologique, sa vérité ne peut être remise en cause : donné un nombre suffisamment grand de salles hexagonales, la bibliothèque contient *effectivement* l’intégralité de ce qui a pu ou pourra être écrit. 
 *Pour autant, elle contient également —et très majoritairement— un très grand nombre de livres totalement illisibles, intégralement constitués de suites de caractères n’ayant aucun sens. Vivre dans cette bibliothèque, c’est avant tout se mettre en quête d’une once de sens et d’humanité, accompagné du malaise grandissant de l’incompréhension et de la perte de sens.*
 
-Mais cette bibliothèque devient particulièrement intéressante ici si on la considère comme le produit d’un algorithme. Cet algorithme, donné un jeu de 25 caractères, serait chargé de sortir l’intégralité des permutations possibles de 410 pages de 40 lignes de 80 caractères.
+Mais cette bibliothèque devient particulièrement intéressante ici si on la considère comme le produit d’un algorithme. Cet algorithme prendrait un jeu de 25 caractères et serait chargé de sortir l’intégralité des permutations possibles sur 410 pages.
 Puisqu’il suffit de suivre à la lettre chaque instruction d’un algorithme pour l’exécuter, il convient de considérer que la pratique algorithmique permet dans une certaine mesure de se soustraire à l’intelligence et à la subjectivité, et donc à la sensibilité. 
-Avec la Bibliothèque de Babel, Borges montre alors sans pouvoir être contredis que l’exécution mécanique d’un tel algorithme permet de produire l’intégralité de l’intelligence Humaine.
+Avec la Bibliothèque de Babel, Borges montre alors sans pouvoir être contredit que l’exécution mécanique d’un tel algorithme permet de produire l’intégralité de l’intelligence Humaine.
 
 Pour nuancer cette vérité absolue, il convient de réintroduire l’Humanité dans son rapport à ce produit algorithmique, et de convoquer Paul Valéry : du point de vue de l’algorithme, un Hamlet de Shakespeare présent dans l’un des livres de la Bibliothèque de Babel n’est pas différent d’une suite de 410 pages totalement aléatoire ; par conséquent, dire qu’un livre de la Bibliothèque est remarquable, c’est introduire un homme, une personne capable de le faire remarquer.
 Si une telle bibliothèque n’a pas besoin d’humanité pour exister, elle ne trouve son sens qu’à travers le regard et la sensibilité de l’Homme.
 
-illustre le concept d’émergence.
+Voir « émergence ».

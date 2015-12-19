@@ -1,0 +1,7 @@
+#Algorithme
+
+Le terme d’ « Algorithme » est dérivé du nom d’Al-Khwarizmi, un mathématicien et savant perse du IX° siècle réputé pour avoir permis le développement de l’algèbre en occident au travers d’un essai, « On the Calculation with Hindu Numerals » (825 AD) qui sera traduit en Latin « Algoritmi de numero Indorum », littéralement « Algorithmes des chiffres Indiens ».
+Étymologiquement comme historiquement, l’algorithme prend ainsi sa place dans le domaine de l’algèbre et des mathématiques, et défini alors un système de calcul. Contrairement à l’arithmétique qui s’intéresse à l’étude des nombres et leur combinaison par des opérations (addition, soustraction, multiplication et soustraction), l’algorithmique concerne elle la décomposition systématique en petites opérations de calculs complexes. En proposant une méthode objective et exhaustive permettant la manipulation complexe de nombre, l’algorithme devient ainsi un outil de désambïguation de concept mathématiques complexes.
+// Exemple de l’algo d’Euclide pour trouver le PGCD qu’on apprend au collège.
+
+L’algorithme est donc une suite d’instructions non-ambigües décrivant les étapes nécessaires pour arriver à un résultat ou pour résoudre un problème. George Boolos (1940—96, philosophe et mathématicien américain) défini pour sa part l’algorithme comme un ensemble d’instructions qui « sont données de façon bien explicite, sous une forme qui puisse être utilisée par une machine à calculer ou par un humain qui est capable de transposer des opérations très élémentaires en symboles ». 
