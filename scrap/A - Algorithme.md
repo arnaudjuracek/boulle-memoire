@@ -1,50 +1,26 @@
-#A - Algorithme
+#Algorithme
 
+Le terme d’ « Algorithme » est dérivé du nom d’Al-Khwarizmi, un mathématicien et savant perse du IX° siècle réputé pour avoir permis le développement de l’algèbre en occident au travers d’un essai, « On the Calculation with Hindu Numerals » (825 AD) qui sera traduit en Latin « Algoritmi de numero Indorum », littéralement « Algorithmes des nombres Indiens ».
+Étymologiquement comme historiquement, l’algorithme prend ainsi sa place dans le domaine de l’algèbre et des mathématiques, et défini alors un système logique de calcul. Contrairement à l’arithmétique qui s’intéresse à l’étude des nombres et à leur combinaison par des opérations (addition, soustraction, multiplication et soustraction), l’algorithmique concerne la décomposition systématique en petites opérations de calculs complexes. En proposant une méthode objective et exhaustive permettant la manipulation complexe de nombre, l’algorithme devient ainsi un outil de désambïguation de concepts mathématiques complexes.
+L’algorithme d’Euclide permettant de trouver le plus grand commun diviseur (PGCD) est très certainement l’exemple le plus connu, et nous a tous été enseigné au collège : **//#?**
 
-Définissons l’Algorithme comme une suite d’instructions permettant d’arriver à un résultat. Au sens premier, le terme fait donc référence à un système mathématique de calcul. Etymologiquement d’ailleurs, il est important de noter que le terme d’ « algorithme » est dérivé du nom d’Al-Khwarizmi, un mathématicien et savant perse du XVII° siècle connu pour être le père de l’algèbre.
-Il existe dans l’histoire des mathématiques un certain nombre d’algorithmes célèbres, le plus connu restant très certainement l’algorithme d’Euclide, permettant de trouver le plus grand commun diviseur de deux chiffres entiers, le fameux PGCD que nous avons tous appris à trouver en cours de Mathématiques au collège.
+Un algorithme est donc une suite d’instructions non-ambigües décrivant les étapes nécessaires pour arriver à un résultat ou pour résoudre un problème. George Boolos (1940—96, philosophe et mathématicien américain) défini pour sa part l’algorithme comme un ensemble d’instructions qui « sont données de façon bien explicite, sous une forme qui puisse être utilisée par une machine à calculer ou par un humain qui est capable de transposer des opérations très élémentaires en symboles ». 
 
-Parce que sa définition est très large, l’objet algorithmique ne s’applique cependant pas seulement aux mathématiques. S’il s’agit effectivement d’une suite d’instructions permettant d’arriver à un résultat, il est crucial de noter que ces instructions peuvent tout aussi bien être suivies par une machine que par un humain. 
+On cite souvent le métier à tisser Jacquard (1801) comme l’une des premières machines algorithmiques mécaniques, et il correspond effectivement à la définition donnée par Boolos : la machine est capable d’interpréter mécaniquement des instructions de tissage transcrites sur des cartes perforées, permettant ainsi sa programmation. Si ces instructions de tissages sont explicites pour la machine, elles ne le sont cependant pas forcément pour l’homme.
+Cet exemple permet donc d’élargir l’application de l’algorithme aux machines et à la mécanique, mais plus important encore, il permet d’introduire la notion d’automatisation qui justifie l’algorithmisation de nos machines.
 
-« To describe the problem is part of the solution » — Karl Gerstner, *Designing Programmes*
-Ce résultat est une solution à un problème, que l’objet Algorithme est alors chargé de résoudre.
+Il convient alors d’enrichir notre définition de l’algorithme en y intégrant celle de Gérard Berry (1948—, chercheur français en science informatique) : 
+« Un algorithme, c’est tout simplement une façon de décrire dans ses moindres détails comment procéder pour faire quelque chose. Il se trouve que beaucoup d’actions mécaniques, toutes probablement, se prêtent bien à une telle décortication. Le but est d’évacuer la pensée du calcul, afin de le rendre exécutable par une machine numérique (ordinateur, …). On ne travaille donc qu’avec un reflet numérique du système réel avec qui l’algorithme interagit. »
 
+En « évacuant la pensée du calcul », l’algorithme permet d’évacuer l’implication humaine de son exécution, et nous offre la possibilité d’automatiser un grand nombre de processus qui jusque-là nécessitaient l’intervention de l’homme.
 
---
+Dans les années 50, la complexité grandissante du monde moderne pousse à la création de nouvelles machines capable d’une grande puissance de calcul. La seconde guerre mondiale et les enjeux en cryptographie sonnent le début d’une nouvelle ère pour l’algorithme. Pendant la seconde guerre mondiale, les travaux d’Alan Turing sur le décryptage des messages échangés par l’Axe façonne une nouvelle forme de machine algorithmique, capable de résoudre des opérations **//#? intelligence de l’algorithme** 
 
-Un algorithme est une suite d’instructions non ambigües permettant d’arriver à un résultat ou de résoudre un problème (la solution au problème étant considérée comme le résultat de l’algorithme).
-Etymologie d’Al-Khwarizmi, mathématicien et savant perse du VII° siècle, père de l’algèbre.
-Etymologiquement et historiquement, l’algorithme prend place dans le champ des mathématiques.
-Il fait alors référence à un système mathématique de calcul.
-L’algèbre étudie les structures de calcul, l’articulation entre les nombres.
-? L’algorithme concerne la désambïguation de méthode de calcul, par la décomposition systématique d’un processus en instructions simples.
+Aujourd’hui les algorithmes permettent le fonctionnement de tous les dispositifs numériques que nous pouvons côtoyer. Le GPS que vous utilisez pour vous rendre d’un point A à un point B embarque par exemple un très grand nombre d’algorithmes, chacun développé pour résoudre une tâche précise : établir un protocole de communication avec plusieurs satellites, calculer en fonction du temps de réponse votre distance par rapport à ces satellites, trianguler ces distances pour trouver votre localisation, puis établir l’itinéraire le plus court de votre position actuelle à votre destination, le tout en l’espace de quelques micro-secondes et sans intervention nécessaire de votre part. Ces algorithmes fonctionnent ensemble, leur fonctionnement induits par d’autres algorithmes dans un système autonome où l’homme est utilisateur, et non opérateur.
 
-L’invention du métier à tisser Jacquard est souvent donné comme point de pivot dans l’histoire de l’algorithme, parce qu’elle défini un moment où l’algorithme est passé d’abstraction purement mathématique à un objet mécanique tangible.
-Elle permet d’offrir un second but à l’objet algorithme : l’algorithme n’est plus seulement descriptif d’une méthode, il devient un outil d’automatisation.
-L’introduction de la machine algorithmique permet d’enrichir la définition de l’algorithme : un algorithme est une suite d’instructions non ambigües qui peuvent être suivi par un humain ou une machine pour arriver à un résultat, ou résoudre un problème (dans ce cas, la solution au problème est le résultat de l’algo).
-
-Dans les années 50, la complexité croissante des calculs rend nécessaire la machinisation algorithmique.
-Enigma, et la réponse d’Alan Turing.
-"Let us imagine that the operations performed by the computer to be split up into 'simple operations' which are so elementary that it is not easy to imagine them further divided." — Turing 1936–7 in Davis 1965:136
-La machine de Turing est le premier ordinateur. Les années à venir et les avancées faîtes en électronique permettront petit à petit la miniaturisation de ces machines algorithmiques, permettant en même temps une complexité plus grande et un temps de calcul plus important.
-
-Aujourd’hui, les algorithmes sont ainsi principalement informatiques, et peuvent contenir un nombre très grand de suite d’instructions.
-Ils permettent l’automatisation de très nombreuses tâches qui nécessitaient auparavant l’intelligence humaine, à une vitesse où l’unité de temps est la micro seconde.
-Algorithmes d’HFT.
-Pathfinding d’un GPS.
-Algorithme de compression d’images.
-
-Trois définitions clefs :
-
-Donald Knuth (1938‒) lista les cinq propriétés suivantes comme étant les prérequis d'un algorithme :
-> la finitude : « Un algorithme doit toujours se terminer après un nombre fini d’étapes. »
-> définition précise : « Chaque étape d'un algorithme doit être définie précisément, les actions à transposer doivent être spécifiées rigoureusement et sans ambiguïté pour chaque cas. »
-> entrées : « … des quantités qui lui sont données avant qu'un algorithme ne commence. Ces entrées sont prises dans un ensemble d'objets spécifié. »
-> sorties : « … des quantités ayant une relation spécifiées avec les entrées. »
-> rendement : « … toutes les opérations que l'algorithme doit accomplir doivent être suffisamment basiques pour pouvoir être en principe réalisées dans une durée finie par un homme utilisant un papier et un crayon. »
-
-George Boolos (1940‒1996), philosophe et mathématicien, proposa la définition suivante :
-> « Des instructions explicites pour déterminer le nième membre d'un ensemble, pour n un entier arbitrairement grand. De telles instructions sont données de façon bien explicite, sous une forme qui puisse être utilisée par une machine à calculer ou par un humain qui est capable de transposer des opérations très élémentaires en symboles. »
-
-Gérard Berry (1948‒), chercheur en science informatique en donne la définition grand public suivante4:
-> « Un algorithme, c’est tout simplement une façon de décrire dans ses moindres détails comment procéder pour faire quelque chose. Il se trouve que beaucoup d’actions mécaniques, toutes probablement, se prêtent bien à une telle décortication. Le but est d’évacuer la pensée du calcul, afin de le rendre exécutable par une machine numérique (ordinateur, …). On ne travaille donc qu’avec un reflet numérique du système réel avec qui l’algorithme interagit. »
+Pour finir, citons Donal Knuth (1938—, informaticien et mathématicien américain) et sa définition des cinq propriétés élémentaires d’un algorithme :
++ finitude : « Un algorithme doit toujours se terminer après un nombre fini d’étapes. »
++ définition explicite : « Chaque étape d’un algorithme doit être définie précisément, les actions à transposer doivent être spécifées rigoureusement et sans ambiguïté pour chaque cas. »
++ entrées : « ... des quantités qui lui sont données avant qu’un algorithme ne commence. Ces entrées sont prises dans un ensemble d’objets spécifié . »
++ sorties : « ... des quantités ayant une relation spécifiées avec les entrées. »
++ rendement : « ... toutes les opérations que l’algorithme doit accomplir doivent être suffisamment basiques pour pouvoir être en principe réalisées dans une durée finie par un homme utilisant un papier et un crayon. »
