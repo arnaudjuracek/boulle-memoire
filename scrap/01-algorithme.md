@@ -1,6 +1,6 @@
 #Algorithme
 
-Le terme d’ « Algorithme » est dérivé du nom d’Al-Khwarizmi, un mathématicien et savant perse du IX° siècle réputé pour avoir permis le développement de l’algèbre en occident au travers d’un essai, « On the Calculation with Hindu Numerals » (825 AD) qui sera traduit en Latin « Algoritmi de numero Indorum », littéralement « Algorithmes des nombres Indiens ».
+Le terme d’ « Algorithme » est dérivé du nom d’Al-Khwarizmi, un mathématicien et savant perse du IX° siècle réputé pour avoir permis le développement de l’algèbre en occident. Son essai, « On the Calculation with Hindu Numerals » (825 AD) sera traduit en Latin « Algoritmi de numero Indorum », littéralement « Algorithmes des nombres Indiens ».
 Étymologiquement comme historiquement, l’algorithme prend ainsi sa place dans le domaine de l’algèbre et des mathématiques, et défini alors un système logique de calcul. Contrairement à l’arithmétique qui s’intéresse à l’étude des nombres et à leur combinaison par des opérations (addition, soustraction, multiplication et soustraction), l’algorithmique concerne la décomposition systématique en petites opérations de calculs complexes. En proposant une méthode objective et exhaustive permettant la manipulation complexe de nombre, l’algorithme devient ainsi un outil de désambïguation de concepts mathématiques complexes.
 L’algorithme d’Euclide permettant de trouver le plus grand commun diviseur (PGCD) est très certainement l’exemple le plus connu, et nous a tous été enseigné au collège : **//#?**
 
@@ -18,9 +18,9 @@ Dans les années 50, la complexité grandissante du monde moderne pousse à la c
 
 Aujourd’hui les algorithmes permettent le fonctionnement de tous les dispositifs numériques que nous pouvons côtoyer. Le GPS que vous utilisez pour vous rendre d’un point A à un point B embarque par exemple un très grand nombre d’algorithmes, chacun développé pour résoudre une tâche précise : établir un protocole de communication avec plusieurs satellites, calculer en fonction du temps de réponse votre distance par rapport à ces satellites, trianguler ces distances pour trouver votre localisation, puis établir l’itinéraire le plus court de votre position actuelle à votre destination, le tout en l’espace de quelques micro-secondes et sans intervention nécessaire de votre part. Ces algorithmes fonctionnent ensemble, leur fonctionnement induits par d’autres algorithmes dans un système autonome où l’homme est utilisateur, et non opérateur.
 
-Pour finir, citons Donal Knuth (1938—, informaticien et mathématicien américain) et sa définition des cinq propriétés élémentaires d’un algorithme :
+Pour finir, citons Donald Knuth (1938—, informaticien et mathématicien américain) et sa définition des cinq propriétés élémentaires d’un algorithme :
 + finitude : « Un algorithme doit toujours se terminer après un nombre fini d’étapes. »
-+ définition explicite : « Chaque étape d’un algorithme doit être définie précisément, les actions à transposer doivent être spécifées rigoureusement et sans ambiguïté pour chaque cas. »
++ définition explicite : « Chaque étape d’un algorithme doit être définie précisément, les actions à transposer doivent être spécifiées rigoureusement et sans ambiguïté pour chaque cas. »
 + entrées : « ... des quantités qui lui sont données avant qu’un algorithme ne commence. Ces entrées sont prises dans un ensemble d’objets spécifié . »
 + sorties : « ... des quantités ayant une relation spécifiées avec les entrées. »
 + rendement : « ... toutes les opérations que l’algorithme doit accomplir doivent être suffisamment basiques pour pouvoir être en principe réalisées dans une durée finie par un homme utilisant un papier et un crayon. »

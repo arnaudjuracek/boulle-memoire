@@ -19,11 +19,14 @@
 + Exemple d’algorithmes (Bourse, ascenseur, etc ...).
 
 ###input/output
++ Lien entre algorithme et input/output
 + Pertinence de l’analyse des entrées/sorties dans le cadre de la boîte noire.
 + Explication du fonctionnement de l’algorithme du point de vue de ses entrées/sorties.
 + Nuance : parfois les entrées et/ou sorties sont plus difficiles à distinguer, voir inexistantes.
 + Typologies (ou datatypes) : si les types de sorties sont à priori très nombreux (chiffres, sons, tableurs, vidéos, mouvement physique, etc), les types d’entrées se comptent sur les doigts d’une main (nombre, caractère, etc).
 + La majorité de ce qu’on pense pouvoir être considéré comme une entrée (une image, un texte, un mouvement) doit en fait être décomposé et/ou traduit en un type d’entrée exploitable par un ordinateur.
++ Cela ne pose pas de soucis dans des champs où les données à manipuler sont déjà numériques
++ Cela devient problématique lorsque l’algorithme est utilisé dans les champs de l’art
 + « The input is our material. Input engages logic and activates and influences the process. Input should come from our external and complex environment: nature, society and its human interactions. » — **Conditional Design manifesto**
 
 ###mapping
@@ -35,10 +38,12 @@
 
 ###boucle
 + Si l’algorithme semble être défini comme linéaire (une méthode permettant, d’une entrée, d’arriver à une sortie en un nombre fini d’étapes), il peut également boucler.
-+ trouver un exemple d’algorithme qui boucle.
++ exemple d’algorithme qui boucle : itération récursive : a = a + 1 ([cf](http://radicalart.info/AlgorithmicArt/enumeration/index.html))
 + closed feedback & autonomie
 + **Permutations de Brion Gysin**, **Opalka ?**
-+ [W.I.P]
++ un moyen d’arriver à une substitution de l’intelligence, pour faire une autonomie mécanique
++ "The artist's will is secondary to the process he initiates from idea to completion. [...] The process is mechanical and should not be tampered with. It should run its course."
+Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
 
    
 ###code
@@ -53,7 +58,6 @@
 
 
 ###La bibliothèque de Babel
-+ [W.I.P]
 
 
 ###Système trivial, Système non-trivial
@@ -82,7 +86,7 @@
 + Dans le contexte des machines de Turing, l’erreur de fonctionnement est mécanique ou électrique, et force la machine à se comporter autrement qu’initialement prévu. C’est l’anecdote du « *bug* », littéralement une mite qui s’est glissé dans un transistor d’un ordinateur, provoquant des erreurs de fonctionnement.
 + « It is claimed that the interrogator could distinguish the machine from the man simply by setting them a number of problems in arithmetic. The machine would be unmasked because of its deadly accuracy. » — Turing
 + Qu’en est-il d’algorithmes spécifiquement conçus pour faire des erreurs ?
-+ [W.I.P]
++ Maeda
 
 ###Homme
 + Démarchage téléphonique : l’Homme suit objectivement un algorithme : pas de sensibilité
