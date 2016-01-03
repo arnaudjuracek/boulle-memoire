@@ -5,6 +5,7 @@
 `conclusion` 7k signes  
 `total` 60k signes +/- 15%
 
+
 ###Préface + Introduction
 + Mon rapport personnel à l’algorithme par le prisme de ma pratique de la programmation.
 + ou : Mon rapport personnel à l’algorithme par le prise de la pratique de la programmation.
@@ -13,10 +14,12 @@
 + Peut-on esthétiser l’algorithme ?
 + Présentation de la forme du mémoire en rapport avec la pratique de la programmation (non-linéarité, définition et déclaration).
 
+
 ###Algorithme
 + Définition.
 + Fonctionnement avec renvoi aux articles concernés.
 + Exemple d’algorithmes (Bourse, ascenseur, etc ...).
+
 
 ###input/output
 + Lien entre algorithme et input/output
@@ -28,7 +31,6 @@
 + Cela ne pose pas de soucis dans des champs où les données à manipuler sont déjà numériques
 + Cela devient problématique lorsque l’algorithme est utilisé dans les champs de l’art
 + « The input is our material. Input engages logic and activates and influences the process. Input should come from our external and complex environment: nature, society and its human interactions. » — **Conditional Design manifesto**
-
 ###mapping
 + Définition du mapping comme de la transformation d’une entrée d’un type en une sortie d’un autre type (exemple : une suite de chiffres devient une suite de sons).
 + Question de la sensibilité dans une pratique de décomposition numérique méthodologique d’entrées analogiques (mapper le mouvement d’un corps vers une sortie tout aussi sensible, par exemple)
@@ -44,7 +46,7 @@
 + un moyen d’arriver à une substitution de l’intelligence, pour faire une autonomie mécanique
 + "The artist's will is secondary to the process he initiates from idea to completion. [...] The process is mechanical and should not be tampered with. It should run its course."
 Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
-
+   
    
 ###code
 + Le langage premier de l’algorithme est le Code.
@@ -60,22 +62,11 @@ Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
 ###La bibliothèque de Babel
 
 
-###Système trivial, Système non-trivial
-+ [W.I.P]
-
-
-###émergence
-+ Explication du concept d’émergence par un exemple : le **Game Of Life** de J.H Conway : chaos et déterminisme.
-+ D’un ensemble de systèmes régis par des règles simples se crée quelque chose qui n’était pas prévu.
-+ « In algorithmic art in the true sense of that word, the artwork is the algorithm. The artistic value of an algorithm is not necessarily purely conceptual, however. Algorithmic art often bridges (or short-circuits) the gap between the conceptual and the "retinal", when the observer is confronted with a surprising or puzzling relation between the algorithm and its visual output – for instance, when a simple procedure yields a complex result, or when a seemingly random process creates striking regularities. This is the art of "emergence": to explore the discrepancies between what is programmed and what is observed; to initiate the "spontaneous" generation of form out of iterated local interactions. » — Remko Scha
+###Aléatoire
 
 
 ###Le Test de Turing
-+ [W.I.P]
 
-
-###Aléatoire
-+ [W.I.P]
 
 ###Erreur
 + L’algorithme est par essence mathématique.
@@ -88,10 +79,18 @@ Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
 + Qu’en est-il d’algorithmes spécifiquement conçus pour faire des erreurs ?
 + Maeda
 
+
+###émergence
++ Explication du concept d’émergence par un exemple : le **Game Of Life** de J.H Conway : chaos et déterminisme.
++ D’un ensemble de systèmes régis par des règles simples se crée quelque chose qui n’était pas prévu.
++ « In algorithmic art in the true sense of that word, the artwork is the algorithm. The artistic value of an algorithm is not necessarily purely conceptual, however. Algorithmic art often bridges (or short-circuits) the gap between the conceptual and the "retinal", when the observer is confronted with a surprising or puzzling relation between the algorithm and its visual output – for instance, when a simple procedure yields a complex result, or when a seemingly random process creates striking regularities. This is the art of "emergence": to explore the discrepancies between what is programmed and what is observed; to initiate the "spontaneous" generation of form out of iterated local interactions. » — Remko Scha
+
+
 ###Homme
 + Démarchage téléphonique : l’Homme suit objectivement un algorithme : pas de sensibilité
 + Les coolies de la pop économie (article sur comment Facebook embauche des Philippins pour modérer le contenu) + les MTurks (des personnes chargées de répondre à des questions qu’un algorithme n’est pas capable de traiter) : devenons-nous au service de l’algorithme ? Est-ce un moyen de lui apporter une sensibilité ? Si oui, est-ce que c’est parce qu’il n’est pas capable de communiquer à un niveau sensible ?
 + [W.I.P]
+
 
 ###L’algorithme pour l’algorithme ? ([W.I.P])
 + Process vs produit **(Conditional Design)**
