@@ -1,24 +1,22 @@
 #IO - input/output
 
-+ Lien entre algorithme et input/output
-+ Pertinence de l’analyse des entrées/sorties dans le cadre de la boîte noire.
-+ Explication du fonctionnement de l’algorithme du point de vue de ses entrées/sorties.
-+ Nuance : parfois les entrées et/ou sorties sont plus difficiles à distinguer, voir inexistantes.
-+ Typologies (ou datatypes) : si les types de sorties sont à priori très nombreux (chiffres, sons, tableurs, vidéos, mouvement physique, etc), les types d’entrées se comptent sur les doigts d’une main (nombre, caractère, etc).
-+ La majorité de ce qu’on pense pouvoir être considéré comme une entrée (une image, un texte, un mouvement) doit en fait être décomposé et/ou traduit en un type d’entrée exploitable par un ordinateur.
-+ Cela ne pose pas de soucis dans des champs où les données à manipuler sont déjà numériques
-+ Cela devient problématique lorsque l’algorithme est utilisé dans un cadre sensible
-+ « The input is our material. Input engages logic and activates and influences the process. Input should come from our external and complex environment: nature, society and its human interactions. » — **Conditional Design manifesto**
-###mapping
-+ Définition du mapping comme de la transformation d’une entrée d’un type en une sortie d’un autre type (exemple : une suite de chiffres devient une suite de sons).
-+ Question de la sensibilité dans une pratique de décomposition numérique méthodologique d’entrées analogiques (mapper le mouvement d’un corps vers une sortie tout aussi sensible, par exemple)
-+ Exemple de mappings algorithmiques numériques **(Kinect ?, How FB sees your face)**
-+ Exemple de mappings dans le champs de l’art **(Cage ?)**
+L’intérêt premier de l’algorithme, c’est de produire un résultat. Ce résultat est le produit de l’association d’un algorithme (une suite d’instructions) et d’une entrée. Un algorithme, c’est donc avant tout un objet qui permet de transformer une entrée (input en anglais) en sortie (output). 
+En vertu du principe de la boîte noire, il est possible d’étudier l’algorithme en éludant son fonctionnement interne et en s’intéressant exclusivement à son couple d’input/output. Dans le cadre des problématiques posées en introduction, il semble alors important de réussir à définir les enjeux de ce couple input/output avant même d’étudier le fonctionnement de l’algorithme.
 
+Parce que l’algorithme possède autant de formes qu’il a d’applications, il est difficile de tenir un propos général le concernant. Pire encore : il n’est pas exclu qu’un algorithme fasse intervenir plusieurs entrées simultanément (si l’on considère une recette de cuisine comme un algorithme, alors les ingrédients nécessaires à la production sont les entrées), ou même plusieurs sorties.
+C’est pourquoi je propose d’étudier la notion d’input/output au travers d’un exemple permettant de clarifier le discours : les vases#44 de François Brument (//et oui, j’en parle finalement...). En proposant une série de vases générés par le son de la voix, Brument nous offre ainsi un exemple trivial d’algorithme à vocation esthétique, et nous permet d’étudier un couple input/output intéressant.
+(//images vases)
+L’entrée est ici explicite : il s’agit du son capté par l’ordinateur embarquant l’algorithme de génération de vase. La sortie, c’est bien évidemment le vase lui même, ou plutôt sa modélisation en trois dimensions, qui servira ensuite de support à l’impression du vase final. (//schéma son>algo>3D). Mais comment concevoir un algorithme capable seulement d’appréhender la complexité et la sensibilité d’une donnée sonore ?
 
+Parce qu’un algorithme reste avant tout outil de désambiguation, et que son champ d’application est aujourd’hui principalement numérique, il convient d’établir des formats de données interprétables par un ordinateur. Ainsi, avant même l’élaboration de l’algorithme, le travail de conception algorithmique est avant tout un travail de traduction. C’est ici qu’intervient la notion très importante de *datatype* (« type de donnée » en Français).
+Il existe, selon les applications et les supports utilisés pour la création d’un algorithme, un certain nombre de *datatypes* qu’une machine sera capable d’appréhender et de manipuler. Parce qu’un ordinateur —et par assimilation un algorithme— utilise un langage mathématique, ces *datatypes* seront dans l’absolu toujours numériques. Ce n’est alors que par une méthodique numérisation de chaque entrée que l’algorithme peut fonctionner. Dans le cas de Vases#44 par exemple, ce que nous percevons comme une voix, un cri, un sifflement ou un applaudissement ne sera pour l’algorithme qu’une série de chiffres traduisant dans le temps un changement de fréquence (//image d’une onde sonore et équivalent numérique).
+L’enjeu premier de la conception algorithmique, c’est alors de réussir à décomposer un phénomène qui nous apparaît sensible (un son, un mouvement, une image...) en un objet mathématique manipulable par une machine. Si cela semble trivial dans le cas d’algorithmes manipulant par défaut des objets numériques (typiquement des algorithmiques mathématiques), cela pose une réelle problématique dans le cas d’algorithmes utilisés dans des applications sensibles : la traduction de phénomènes en langage mathématique n’amputerait-elle pas une part de leur sensibilité ?
+C’est l’une des questions qu’adresse le projet « Data Masks » de Sterling Crispin’s (https://medium.com/matter/this-is-what-your-face-looks-like-to-facebook-f771b3e11ed#.smk4q4xd6), qui propose d’utiliser les données de reconnaissances faciales collectées par Facebook pour produire des impressions 3D de ce que la machine considère comme un visage. Pour Crispins, « the kind of softness, the part that’s really human, is lost in all of this [project] ».
 
+(//citation en exergue : « la nature est un livre écrit en langage mathématique » — Galilée)
 
+Mais introduire la notion de *datatype*, c’est également introduire une propriété émergente de l’utilisation de l’algorithme : le *mapping*.
+De l’Anglais « map » (carte en Français), le *mapping* (parfois également appelé « data-mapping ») désigne une pratique mathématique de transposition de données d’un datatype à un autre (on peut aussi parler de *morphisme*). Lorsque Brument propose de générer des vases à partir d’un son, il choisi ainsi d’interpréter une onde sonore en terme de formes en trois dimensions, pratiquant alors le *mapping* d’un son vers un espace 3D.
+Cette pratique du *mapping* se retrouve aujourd’hui dans de nombreux domaines, et témoignent d’une volonté d’algorithmisation de notre monde. Parfois, comme dans le cas des visualisations de données, il s’agit de donner à voir sous une autre forme un jeu de données afin de lui donner du sens, en le transposant par exemple vers un média plus facile à appréhender. (//ex visuel d’une dataviz). D’autres fois, cette transposition permet d’insuffler une sensibilité nouvelle à un phénomène, en le convoquant dans un environnement d’expression où l’on ne l’attendrais pas. C’est le cas par exemple de l’« Atlas Eclipticalis » de John Cage (1961-62 — https://vimeo.com/49288980), une composition pour orchestre (http://mmj.upsi.edu.my/images/P5-8-MMJ-TZU-ENG_NGIAO.pdf) directement écrite à partir d’une carte astronomique. (//à developper sur 2-3 phrases). 
 
-
-
-
+//conclusion
