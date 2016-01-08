@@ -19,3 +19,5 @@ Bien sûr, le Test a été et est encore vivement controversé, beaucoup arguant
 En 1966 par exemple, le programme ELIZA (développé au MIT par Joseph Weizenbaum (//donner un site d’ELIZA pour tester en ligne) passe avec brio le Test de Turing en réussissant à tenir une conversation très fluide et animée avec le juge. Si la conversation est au final vide de sens, la forme est suffisamment humaine pour tromper le juge et, le renvoyant à sa propre naïveté, le pousser à déclarer qu’il est « vraiment dur de se convaincre qu’ELIZA n’est *pas* humaine » (Weizenbaum, Joseph, « ELIZA – A Computer Program For the Study of Natural Language Communication Between Man And Machine »).
 
 Le jeu de l’imitation ne répond finalement pas à la question initiale « une machine peut-elle penser ? ». Il offre par contre une vision très intéressante de notre rapport à la machine algorithmique, et nous pousse à poser une autre question : n’est-ce pas notre propre humanité que nous projetons dans ces machines ? //peut-on aller plus loin qu’une projection de notre propre humanité ?
+
+

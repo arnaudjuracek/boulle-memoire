@@ -16,3 +16,5 @@ Andy Warhol. (In: David Bourdon: Warhol. New York: Harry N. Abrams, 1989, p. 140
 + l’algorithme comme objet d’intention
 + "The artist's will is secondary to the process he initiates from idea to completion. [...] The process is mechanical and should not be tampered with. It should run its course."
 Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
+
+

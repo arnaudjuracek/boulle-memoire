@@ -24,3 +24,5 @@ Pour finir, citons Donald Knuth (1938—, informaticien et mathématicien améri
 + entrées : « ... des quantités qui lui sont données avant qu’un algorithme ne commence. Ces entrées sont prises dans un ensemble d’objets spécifié . »
 + sorties : « ... des quantités ayant une relation spécifiées avec les entrées. »
 + rendement : « ... toutes les opérations que l’algorithme doit accomplir doivent être suffisamment basiques pour pouvoir être en principe réalisées dans une durée finie par un homme utilisant un papier et un crayon. »
+
+

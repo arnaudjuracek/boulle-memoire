@@ -27,3 +27,5 @@ Pour approcher cette problématique, je propose alors d’exploser le discours e
 
 Citation en exergue : 
 > La vocation du livre est pédagogique, c’est-à-dire qu’il ne faut pas voir le numérique comme un tout, mais le décomposer pour voir comment ses différentes parties interagissent avec nos vies. Décomposer les variables autour desquelles la « salade algorithmique » se compose. Il y a un enjeu là-dessus, qui est effectivement important : pour bien critiquer, il faut être capable d’entrer dans ces systèmes pour les comprendre. Ce qu’il ne faut pas dire qu’il faut coder en Python, ou être statisticien expert, mais entre les deux, il y a une zone de langage et d’exploration critique dans laquelle il faut s’aventurer réellement. Être en position de réflexion face à ces usages, et être capable de les décoder. On imagine toujours une sorte de docilité passive de l’utilisateur, toujours mené par le haut au travers des prescriptions qui lui sont faites. — Cardon, France culture, 17’00’’
+
+

@@ -20,3 +20,5 @@ Si une telle bibliothèque n’a pas besoin d’humanité pour exister, elle ne 
 
 //rajouter petite conclusion, un peu sec là  
 // faire renvoi à « émergence »
+
+

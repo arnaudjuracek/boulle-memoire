@@ -28,3 +28,5 @@ Machine capable de simuler des erreurs deviendrait plus humaine.
 Est-il alors possible de concevoir un algorithme capable de donner sens à l’erreur, d’être capable de la prendre en compte ? On considère aujourd’hui cette question comme l’une des principales limites à l’automatisation, et de nombreuses recherches sont menées en ce sens. Turing encore une fois offre dès 1950 les bases réflexives à cette problématique, en imaginant une machine « apprenante », capable de déceler une erreur de conclusion et d’adapter son fonctionnement en conséquence. Le site web Akinator est un exemple très trivial d’une telle machine. //décrire le site et le fonctionnement de l’algo : plus il fait d’erreurs, moins il fait d’erreurs.
 
 //GLITCH ART : donner du sens à une erreur qui n’en a pas. définir une esthétique de l’erreur, mais aussi donner à voir le fonctionnement
+
+
