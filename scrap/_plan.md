@@ -38,16 +38,6 @@
 + Exemple de mappings dans le champs de l’art **(Cage ?)**
 
 
-###boucle
-+ Si l’algorithme semble être défini comme linéaire (une méthode permettant, d’une entrée, d’arriver à une sortie en un nombre fini d’étapes), il peut également boucler.
-+ exemple d’algorithme qui boucle : itération récursive : a = a + 1 ([cf](http://radicalart.info/AlgorithmicArt/enumeration/index.html))
-+ closed feedback & autonomie
-+ **Permutations de Brion Gysin**, **Opalka ?**
-+ un moyen d’arriver à une substitution de l’intelligence, pour faire une autonomie mécanique
-+ "The artist's will is secondary to the process he initiates from idea to completion. [...] The process is mechanical and should not be tampered with. It should run its course."
-Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
-   
-   
 ###code
 + Le langage premier de l’algorithme est le Code.
 + Aujourd’hui, la pratique de conception d’un algorithme est rapprochée à la pratique de la programmation.
@@ -57,6 +47,16 @@ Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
 + Citation de **Linus Torvalds** : « Bad programmers worry about the code. Good programmers worry about data structures and their relationships. »
 + Question sur la structure du code et sa non-linéarité, et point de Gestalt.
 + Autres modes de représentations algorithmiques (diagramme, programmation nodale, expérimentations d’environnements de développement disruptifs) et ouverture sur des formes non numériques. **Esolang**.
+
+
+###boucle
++ Si l’algorithme semble être défini comme linéaire (une méthode permettant, d’une entrée, d’arriver à une sortie en un nombre fini d’étapes), il peut également boucler.
++ exemple d’algorithme qui boucle : itération récursive : a = a + 1 ([cf](http://radicalart.info/AlgorithmicArt/enumeration/index.html))
++ closed feedback & autonomie
++ **Permutations de Brion Gysin**, **Opalka ?**
++ un moyen d’arriver à une substitution de l’intelligence, pour faire une autonomie mécanique
++ "The artist's will is secondary to the process he initiates from idea to completion. [...] The process is mechanical and should not be tampered with. It should run its course."
+Sol LeWitt: "Sentences on Conceptual Art." Art-Language 1,1 (May 1969).
 
 
 ###La bibliothèque de Babel
