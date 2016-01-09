@@ -12,7 +12,7 @@ Cet exemple permet donc d’élargir l’application de l’algorithme aux machi
 Il convient alors d’enrichir notre définition de l’algorithme en y intégrant celle de Gérard Berry (1948—, chercheur français en science informatique) : 
 « Un algorithme, c’est tout simplement une façon de décrire dans ses moindres détails comment procéder pour faire quelque chose. Il se trouve que beaucoup d’actions mécaniques, toutes probablement, se prêtent bien à une telle décortication. Le but est d’évacuer la pensée du calcul, afin de le rendre exécutable par une machine numérique (ordinateur, …). On ne travaille donc qu’avec un reflet numérique du système réel avec qui l’algorithme interagit. »
 
-En « évacuant la pensée du calcul », l’algorithme permet d’évacuer l’implication humaine de son exécution, et nous offre la possibilité d’automatiser un grand nombre de processus qui jusque-là nécessitaient l’intervention de l’homme.
+En « évacuant la pensée du calcul », l’algorithme permet d’évacuer l’implication de l’homme de son exécution, et nous offre la possibilité d’automatiser un grand nombre de processus qui jusque-là nécessitaient l’intervention de l’homme.
 
 Dans les années 50, la complexité grandissante du monde moderne pousse à la création de nouvelles machines capable d’une grande puissance de calcul. La seconde guerre mondiale et les enjeux en cryptographie sonnent le début d’une nouvelle ère pour l’algorithme. Pendant la seconde guerre mondiale, les travaux d’Alan Turing sur le décryptage des messages échangés par l’Axe façonne une nouvelle forme de machine algorithmique, capable de résoudre des opérations **//#? intelligence de l’algorithme** 
 
