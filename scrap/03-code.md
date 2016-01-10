@@ -1,4 +1,4 @@
-#Code
+#03 — Code
 
 //intégrer l’esolang « entropy », un langage expérimental de programmation qui questionne la nécessité de rigueur dans la pratique du code, sûrement en double page « annexe », pour ne pas alourdi le discours théorique
 // http://www.bestprogramminglanguagefor.me/ > un petit test à proposer aux lecteurs qui ont envie d’apprendre un langage de programmation

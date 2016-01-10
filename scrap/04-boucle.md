@@ -1,4 +1,4 @@
-#Boucle
+#04 — Boucle
 
 
 Définir l’algorithme comme une suite d’instructions permettant d’arriver à un résultat, c’est donner une vision séquentielle, linéaire de son fonctionnement. Bien que Knuth (//nbp : cf fin « 01—algo ») souligne au travers de sa propre définition la nécessité de finitude (« un algorithme doit toujours se terminer après un nombre fini d’étapes »), il est intéressant de questionner la possibilité d’un algorithme comportant un nombre *infini* d’étapes.

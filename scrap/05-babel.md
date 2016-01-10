@@ -1,4 +1,4 @@
-#La bibliothèque de Babel
+#05 — La bibliothèque de Babel
 
 La bibliothèque de Babel est un espace théorique imaginé par l’écrivain argentin Jorge Luis Borges dans une nouvelle de 1941.
 Elle est décrite comme une bibliothèque de taille gigantesque (mais pas infinie) composée de salles hexagonales identiques. 

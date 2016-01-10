@@ -1,4 +1,4 @@
-#Erreur (à placer avant émergence)
+#08 — Erreur
 
 L’algorithme est un objet qui permet d’arriver à un résultat. Ce résultat est soit la réponse à un problème (Euclide : quelle est le plus grand commun diviseur entre ces deux nombres ?), soit le produit d’une série de manipulation (une recette de cuisine par exemple). Fondamentalement, il est donc un objet qui résout.
 Si ce résultat n’est pas forcément consistant ou prédictible, on n’en attend pas moins que l’algorithme *fonctionne*, c’est-à-dire qu’il produise le résultat pour lequel il a été conçu. Dans le cas contraire, l’algorithme est inexploitable, *cassé*.

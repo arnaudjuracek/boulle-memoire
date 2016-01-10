@@ -1,4 +1,4 @@
-#Aléatoire
+#07 — Aléatoire
 
 //citation en exergue
 “One thing that traditional computer systems aren’t good at is coin flipping,” says Steve Ward, Professor of Computer Science and Engineering at MIT’s Computer Science and Artificial Intelligence Laboratory. (http://engineering.mit.edu/ask/can-computer-generate-truly-random-number).

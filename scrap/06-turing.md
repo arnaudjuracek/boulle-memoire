@@ -1,4 +1,4 @@
-#Le jeu de l’imitation
+#06 — Le jeu de l’imitation
 
 
 Une machine peut-elle penser ?
