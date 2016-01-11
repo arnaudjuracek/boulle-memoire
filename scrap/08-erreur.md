@@ -25,7 +25,8 @@ Du point de vue du robot, il n’y a pas d’erreur : l’exécution de l’algo
 Est-il alors possible de concevoir un algorithme capable de donner sens à l’erreur, d’être capable de la prendre en compte ? On considère aujourd’hui cette question comme l’une des principales limites à l’automatisation par l’algorithme, et de nombreuses recherches sont menées en ce sens. Turing encore une fois offre dès 1950 les bases réflexives à cette problématique, en imaginant une machine « apprenante » (on parle de *machine learning*), capable de déceler une erreur de conclusion et d’adapter son fonctionnement en conséquence. 
 Le site web Akinator est un exemple très trivial d’une telle machine « apprenante ». Akinator (//nbp : http://fr.akinator.com/), c’est un « génie numérique » capable de deviner en une vingtaine de questions le nom de la personnalité à qui vous pensez. Si son taux de réussite est impressionnant (et trouble beaucoup de techno-novices), il lui arrive de se tromper. Et c’est là toute la subtilité de son fonctionnement : lorsqu’il donne la réponse qu’il pense être la bonne, l’algorithme d’Akinator demande à l’utilisateur de valider sa réponse ; si la réponse est fausse, l’utilisateur est alors invité à entrer le nom de la personne à qui il pensait véritablement, et Akinator en tiendra compte pour les utilisateurs à venir. Plus il se trompe, moins il se trompe.
 
+The glitch makes the computer itself suddenly appear unconventionally deep, in contrast to the more banal, predictable surface-level behaviours of ‘normal’ machines and systems. In this way, glitches announce a crazy and dangerous kind of moment(um) instantiated and dictated by the machine itself.”
 
-//GLITCH ART : donner du sens à une erreur qui n’en a pas. définir une esthétique de l’erreur, mais aussi donner à voir le fonctionnement
-
-
+Artefact, 
+Les glitchs sont généralement 
+Glitches are commonly understood as malfunctions, bugs or sudden disruptions to the normal running of machine hardware and computer networks
