@@ -1,6 +1,11 @@
 #E - émergence
 
-> Beaches are ordered without being controlled. No one is in charge. [...] Underlying the beach's appeal is a simple idea : the beach is a commons where people can self-organise in play [...] There are no zoning regulations, fences nor white lines to tell you where to go.
-Charles Leadbeater, **'The Beach Ethic'**, *in* Conditional Design Workbook, workshop IV 'The Beach'
 
 
++ Explication du concept d’émergence par un exemple : le **Game Of Life** de J.H Conway : chaos et déterminisme.
++ D’un ensemble de systèmes régis par des règles simples se crée quelque chose qui n’était pas prévu.
++ Création de qqch qui ne relève pas de l’intention
++ « In algorithmic art in the true sense of that word, the artwork is the algorithm. The artistic value of an algorithm is not necessarily purely conceptual, however. Algorithmic art often bridges (or short-circuits) the gap between the conceptual and the "retinal", when the observer is confronted with a surprising or puzzling relation between the algorithm and its visual output – for instance, when a simple procedure yields a complex result, or when a seemingly random process creates striking regularities. This is the art of "emergence": to explore the discrepancies between what is programmed and what is observed; to initiate the "spontaneous" generation of form out of iterated local interactions. » — Remko Scha
++ Machines take me by surprise with great frequency. — Alan Turing
++ Permutations de Brion Gysin
++ En ce sens, l'algorithme appelle à devenir une nouvelle méthodologie de création. Conditionnal Design Workbook
