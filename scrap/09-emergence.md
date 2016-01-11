@@ -1,4 +1,4 @@
-#E - émergence
+#09 — émergence
 
 
 En théorie des systèmes, l’émergence est le principe selon lequel des propriétés nouvelles peuvent spontanément apparaître des interactions entre les différents éléments constituants d’un système. Edgar Morin (//nbp « introduction à la pensée complexe ») explique le concept d’émergence par l’étude d’une tapisserie comme d’un système complexe : « prenons une tapisserie contemporaine. Elle comporte des fils de lin, de soie, de coton, de laine, aux couleurs variées. Pour connaître cette tapisserie, il serait intéressant de connaître les lois et les principes concernant chacun de ces types de fil. Pourtant, la somme des connaissances sur chacun de ces types de fil entrant dans la tapisserie est insuffisante pour, non seulement connaître cette réalité nouvelle qu’est le tissu, c’est-à-dire les qualités et les propriétés propres à cette texture, mais, en plus, est incapable de nous aider à connaître sa forme et sa configuration ».
