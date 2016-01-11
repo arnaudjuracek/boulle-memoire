@@ -31,3 +31,5 @@ Allant à contre-courant de la tendance à l’élimination méthodique de toute
 Un glitch, c’est alors le témoin de la complexité subtile des algorithmes.
 
 >  « We call accidents on the computer 'bugs'. Most technologists are trained to seek out and destroy all bugs, but I guess where I differ is that I actually collect and nurture my bugs. They reveal the true nature of the computer. A computer virus is a good example of this phenomenon. Our acknowledging the that computer viruses exist give us a better sense that the computer network today is in many senses a kind of organic entity subject to similar weaknesses as our own body. » — John Maeda, nature + “eye’m hungry” | Fondation Cartier pour l'art contemporain
+
+
