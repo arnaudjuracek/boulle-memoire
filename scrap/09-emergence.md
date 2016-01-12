@@ -26,8 +26,10 @@ Le concept d’émergence pour finir, se retrouve également dans un autre domai
 Il convient alors de poser une dernière question : peut-on appréhender l’algorithme comme un objet duquel peut apparaître spontanément, de façon émergente, une forme de vie ?
 
 
-// à placer en double page annexe
+(// à placer en double page annexe)
 En établissant de nouveaux protocoles de création, algorithmiques et computationnels, il convient alors de questionner de nouvelles formes de productions émergentes, issues de systèmes dynamiques. C’est ce que proposent au travers d’un manifeste le collectif du *Conditionnal Design* : 
 > « Through the influence of the media and technology on our world, our lives are increasingly characterized by speed and constant change. We live in a dynamic, data-driven society that is continually sparking new forms of human interaction and social contexts. Instead of romanticizing the past, we want to adapt our way of working to coincide with these developments, and we want our work to reflect the here and now. We want to embrace the complexity of this landscape, deliver insight into it and show both its beauty and its shortcomings. Our work focuses on processes rather than products: things that adapt to their environment, emphasize change and show difference. Instead of operating under the terms of Graphic Design, Interaction Design, Media Art or Sound Design, we want to introduce Conditional Design as a term that refers to our approach rather than our chosen media. We conduct our activities using the methods of philosophers, engineers, inventors and mystics. » — Conditional Design Workbook
 
 // + Permutations de Brion Gysin à placer quelque part, soit ici en tant que produit algorithmique, soit plus trivialement dans la partie boucle
+
+

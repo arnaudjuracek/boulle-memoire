@@ -1,3 +1,5 @@
+#Conclusion (work in progress)
+
 // récapitulatif des limites et paradoxes de l’algorithme
 + suite d’instructions, donc déterminés
 + en tant qu’objet d’intention, l’intelligence est transféré en amont du process de conception algorithmique
@@ -11,6 +13,6 @@
 // rapport à l’homme
 + Démarchage téléphonique : l’Homme suit objectivement un algorithme : pas de sensibilité
 + Les coolies de la pop économie (article sur comment Facebook embauche des Philippins pour modérer le contenu) + les MTurks (des personnes chargées de répondre à des questions qu’un algorithme n’est pas capable de traiter) : devenons-nous au service de l’algorithme ? Est-ce un moyen de lui apporter une sensibilité ? Si oui, est-ce que c’est parce qu’il n’est pas capable de communiquer à un niveau sensible ?
-+ [W.I.P]
 
-
+// ouverture vers le projet :
+Le test de Turing est chaque année plus facile à passer pour les algos : est-ce parce que ils se rapprochent de l’homme, ou au contraire parce que l’homme se rapproche d’eux ?

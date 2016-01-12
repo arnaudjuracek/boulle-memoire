@@ -19,6 +19,6 @@ Pour nuancer cette vérité absolue, il convient de réintroduire notre sensibil
 Si une telle bibliothèque n’a pas besoin d’humanité pour exister, elle ne trouve alors son sens qu’à travers le regard et la sensibilité de l’Homme.
 
 Une version numérique de la bibliothèque de Babel est disponible en ligne (//nbp : libraryofbabel.info).
-// faire renvoi à « émergence »
+(//faire renvoi à « 09 — émergence »)
 
 
