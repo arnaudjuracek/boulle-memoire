@@ -1,0 +1,57 @@
+#Traduction citations
+
+##02 — input/output/mapping
+> the kind of softness, the part that’s really human, is lost in all of this [project]
+« cette sorte de douceur, cette partie réellement humaine, est perdu [dans ce projet] »
+
+##03 — code
+> Programming is the process of taking an algorithm and encoding it into a notation, a programming language, so that it can be executed by a computer. Although many programming languages and many different types of computers exist, the important first step is the need to have the solution. Without an algorithm there can be no program. [...]
+> Algorithms describe the solution to a problem in terms of the data needed to represent the problem instance and the set of steps necessary to produce the intended result. Programming languages must provide a notational way to represent both the process and the data. To this end, languages provide control constructs and data types.  
+La programmation consiste à prendre un algorithme et à l’encoder dans un système de symboles, un langage de programmation, afin qu’il puisse être exécuté par un ordinateur. Bien qu’il existe beaucoup de langages de programmation et beaucoup de types différents d’ordinateurs, l’étape première est la nécessité d’avoir une solution. Sans algorithme, il ne peut y avoir de programme. [...]
+Les algorithmes décrivent la solution à un problème en terme de données nécessaires à la représentation du problème, et la série d’étapes nécessaires à la production du résultat attendu. Les langages de programmation doivent proposer un système de notation qui représente à la fois le déroulé de l’algorithme, et les données qu’il manipule. À cette fin, ces langages offre des outils de contrôles, et des types de données.
+
+> To describe the problem is part of the solution. This implies : not to make creative decisions as prompted by feeling but by intellectual criteria. The more exact and complete these criteria are, the more creative the work becomes. The creative process is to be reduced to an act of selection. Designing means : to pick out determining elements and combine them. Seen in these terms, designing calls for method.  
+Décrire le problème, c’est une partie de la solution. Ce qui implique : ne pas prendre de décisions créatives poussées par les sentiments, mais par des critères intellectuels. Plus ces critères sont complets et exacts, plus le travail devient créatif. Le process créatif est à réduire à un acte de sélection. Designer signifie : relever les éléments déterminants et les combiner. Vu en ces termes, le design appelle à la méthode.
+
+> Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+Les mauvais programmeurs se soucient du code. Les bons programmeurs se souvient des structures de données et de leur inter-relations.
+
+#04 — boucle
+> The artist's will is secondary to the process he initiates from idea to completion. [...] The process is mechanical and should not be tampered with. It should run its course.
+La volonté de l’artiste est secondaire au processus qu’il initie de l’idée à son achèvement. [...] Le processus est mécanique, et ne doit pas être altérer. Il doit suivre son cours.
+
+> In Conceptual Art the idea or concept is the most important aspect of the work.... all planning and decisions are made beforehand and execution is a perfunctory affair. The idea is the machine that makes the art.
+Dans l’Art Conceptuel, l’idée ou le concept est le plus important aspect de l’oeuvre... toute la planification et toutes les décisions sont faites à l’avance, et l’exécution n’est pas vraiment importante. L’idée est la machine qui fait l’art (????)
+
+#05 — babel
+> Everything will be in its blind volumes. Everything: the minute history of the future, The Egyptians of Aeschylus, the precise number of times the waters of the Ganges have reflected the flight of a falcon, the secret and true name of Rome, the encyclopedia Novalis would have constructed, my dreams and daydreams in the dawn of the 14th of August in 1934, the demonstration of Pierre Fermat’s theory, the unwritten chapters of Edwin Drood, those same chapters translated into the language of the Garamantes, the paradoxes Berkeley cerebrated concerning time and never published, Urizen’s books of iron, the premature epiphanies of Stephen Daedelus which before a cycle of 1000 years will signify nothing, the gnostic gospel of Basilides, the song the sirens sang, the faithful catalogue of the Library, the demonstration of the fallacy of that catalogue. Everything, but for a rational line or just notion there will be millions of nonsensical cacophonies, of verbal farragoes and babblings. Everything, but the generations of men can pass without finding among the vertiginous shelves - the shelves that obliterate the day and in which the chaos dwells - a single tolerable page.
+Tout sera présent dans ces volumes fermées. Tout : *the minute history of the future*, Les Suppliantes d’Eschyle, le nombre précis de fois où les eaux de Ganges ont reflété le vol d’un faucon, le nom secret et véritable de Rome, ce que l’encyclopédie Novalis aurait construit, mes rêves endormis et éveillés à l’aube du 14 août 1934, la démonstration de la théorie de Pierre Fermat, les chapitres oubliés d’Edwin Drood, ces mêmes chapitres traduits dans la langue des Garamantes, les paradoxes que Berkeley conçu concernant le temps et ne publia jamais, les livres de fer d’Urizen, les épiphanies prématurées de Stephen Daedelus qui ne signifieront rien avant un cycle de 1000 années, le gospel gnostique de Basilides, le chant que chantent les sirènes, le loyal catalogue de la Bilbiothèque, la démonstration du raisonnement fallacieux de ce catalogue. Tout, mais pour chaque idée ou ligne rationnelle il y aura des millions de cacophonies insensées, de ramassis verbeux et de babillages. Tout, mais des générations d’Hommes peuvent aller sans trouver sur ces vertigineuses étagères — étagères qui effacent le jour et dans lesquelles le chaos demeurent — une simple tolérable page.
+
+#06 — turing
+> It is claimed that the interrogator could distinguish the machine from the man simply by setting them a number of problems in arithmetic. The machine would be unmasked because of its deadly accuracy. The reply to this is simple. The machine (programmed for playing the game) would not attempt to give the right answers to the arithmetic problems. It would deliberately introduce mistakes in a manner calculated to confuse the interrogator.
+Il est clamé que le juge puisse distinguer la machine de l’homme en posant simplement une série de problèmes arithmétiques. La machine serait alors démasquée par sa froide précision. La réponse à cela est simple. La machine (programmée pour jouer au jeu) n’essayera pas de donner la bonne réponses à ces problèmes arithmétiques. Elle y introduira délibérément des erreurs d’une façon calculée pour tromper le juge.
+
+#07 — aléatoire
+> One thing that traditional computer systems aren’t good at is coin flipping
+S’il y a une chose dans laquelle ne sont pas bon les systèmes informatiques traditionnels, c’est dans le pile-ou-face.
+
+> Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin
+C’est un crime que de considérer une méthode arithmétique capable de produire des chiffres aléatoires.
+
+> a stream of human generated randomness
+Un flux d’aléatoire humain
+
+> The work of art which is the result of random choice does not have any meaning and there is no key to decipher it. Though such a work of art may be aesthetically relevant, the spontaneous associations of the observer have no connexion with the author. The observer may attach meaning to the work on the basis of his own imagination, but this meaning would not be inherent in the work of art itself. We could go one step further and assert that there is no link between the author and the work of art if the medium, the method of creating and the content have been chosen at random.
+L’oeuvre d’art qui est le résultat de choix aléatoires n’a pas de sens, et il n’y a pas de clefs pour la déchiffrer.
+
+#08 — erreur
+> The claim that "machines cannot make mistakes" seems a curious one. [...] It seems to me that this criticism depends on a confusion between two kinds of mistake, we may call them "**errors of functioning**" and "**errors of conclusion**".
+> [...] In philosophical discussions one likes to ignore the possibility of such errors; one is therefore discussing "abstract machines." These abstract machines are mathematical fictions rather than physical objects. By definition they are incapable of errors of functioning. In this sense we can truly say that "machines can never make mistakes." Errors of conclusion can only arise when some meaning is attached to the output signals from the machine.
+> Errors of conclusion can only arise when some meaning is attached to the output signals from the machine
+> The glitch makes the computer itself suddenly appear unconventionally deep, in contrast to the more banal, predictable surface-level behaviours of ‘normal’ machines and systems. In this way, glitches announce a crazy and dangerous kind of moment(um) instantiated and dictated by the machine itself.
+> We call accidents on the computer 'bugs'. Most technologists are trained to seek out and destroy all bugs, but I guess where I differ is that I actually collect and nurture my bugs. They reveal the true nature of the computer. A computer virus is a good example of this phenomenon. Our acknowledging the that computer viruses exist give us a better sense that the computer network today is in many senses a kind of organic entity subject to similar weaknesses as our own body.
+
+#09 — émergence
+> In algorithmic art in the true sense of that word, the artwork is the algorithm. The artistic value of an algorithm is not necessarily purely conceptual, however. Algorithmic art often bridges (or short-circuits) the gap between the conceptual and the "retinal", when the observer is confronted with a surprising or puzzling relation between the algorithm and its visual output – for instance, when a simple procedure yields a complex result, or when a seemingly random process creates striking regularities. This is the art of "emergence": to explore the discrepancies between what is programmed and what is observed; to initiate the "spontaneous" generation of form out of iterated local interactions.
+> Machines take me by surprise with great frequency.
+> Through the influence of the media and technology on our world, our lives are increasingly characterized by speed and constant change. We live in a dynamic, data-driven society that is continually sparking new forms of human interaction and social contexts. Instead of romanticizing the past, we want to adapt our way of working to coincide with these developments, and we want our work to reflect the here and now. We want to embrace the complexity of this landscape, deliver insight into it and show both its beauty and its shortcomings. Our work focuses on processes rather than products: things that adapt to their environment, emphasize change and show difference. Instead of operating under the terms of Graphic Design, Interaction Design, Media Art or Sound Design, we want to introduce Conditional Design as a term that refers to our approach rather than our chosen media. We conduct our activities using the methods of philosophers, engineers, inventors and mystics. 
