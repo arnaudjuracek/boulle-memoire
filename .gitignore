@@ -1,8 +1,8 @@
 
 *.pdf
 *.mindnode
-bibliographie/dominique_cardon-france_culture.mp3
-iconography/*
-scrap/__bertrand.doc
-
 *.indd
+*.mp3
+iconography/*
+print/*
+scrap/__bertrand.doc
