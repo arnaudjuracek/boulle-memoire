@@ -3,6 +3,7 @@
 *.mindnode
 *.indd
 *.mp3
+bibliographie/*.jpg
 iconography/*
 print/*
 scrap/__bertrand.doc
