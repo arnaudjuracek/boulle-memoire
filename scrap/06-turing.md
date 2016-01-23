@@ -15,7 +15,7 @@ Si l’on pose ainsi à l’un des deux joueurs un problème arithmétique compl
 
 Mais limiter le Test de Turing à ce type de question reviendrait à évaluer l’humanité d’une machine à sa seule intelligence. Une machine conçue pour se tromper réussirait très facilement à passer ce test, tout comme un humain très doué en mathématique serait capable d’être confondu avec une machine. 
 Parce que le comportement humain n’est pas toujours intelligent, la difficulté réelle du *jeu de l’imitation* consiste à orienter la conversation vers des sujets où le jugement moral ou esthétique entre en ligne de compte. Demander à l’un des deux joueurs de rédiger un sonnet ou d’analyser de façon sensible une poésie peut être une façon de piéger la machine. 
-Encore une fois, des stratégies plus ou moins subtiles sont élaborés pour répondre à ces questions : la machine peut se présenter comme un enfant, qui portera alors un jugement moral ou esthétique moins développé qu’un adulte (c’est ainsi qu’une machine à passé le test en 2013 (//ref nécessaire)), ou encore essayer de retourner en sa faveur la conversation en se faisant force de question (« et vous, qu’en pensez-vous ? »).
+Encore une fois, des stratégies plus ou moins subtiles sont élaborées pour répondre à ces questions : la machine peut se présenter comme un enfant, qui portera alors un jugement moral ou esthétique moins développé qu’un adulte (c’est ainsi qu’une machine à passé le test en 2013 (//ref nécessaire)), ou encore essayer de retourner en sa faveur la conversation en se faisant force de question (« et vous, qu’en pensez-vous ? »).
 
 (//un exergue sur les algorithmes de générations poétiques http://motherboard.vice.com/read/how-machines-write-poetry)
 
