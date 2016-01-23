@@ -10,8 +10,8 @@ En 1970, le mathématicien John Conway (//nbp bio) imagine et conçoit *le jeu d
 + sur une grille en deux dimensions de taille infinie, se trouvent des cases, ou « cellules » ; 
 + ces cellules peuvent être dans deux états : « vivant » (la case est noire, pleine), et « mort » (la case est blanche, vide) ; 
 + le passage d’un état à l’autre est dicté par les deux conditions suivantes : 
-	+ si une cellule est vivante est entouré par deux ou trois autres cellules vivantes, alors elle reste en vie ; sinon, elle meurt
-	+ si une cellule est morte mais entouré par deux ou trois autres cellules vivante, alors elle naît ; sinon, elle reste morte
+	+ si une cellule est vivante et entourée par deux ou trois autres cellules vivantes, alors elle reste en vie ; sinon, elle meurt
+	+ si une cellule est morte mais entourée par deux ou trois autres cellules vivante, alors elle naît ; sinon, elle reste morte
 En prenant un état de la grille initial avec une répartition aléatoire de cellules « vivantes » et de cellules « mortes » et en faisant boucler l’algorithme, on observe alors ce qu’il se passe. À l’échelle d’une cellule, on reconnaît effectivement le comportement déterminé par l’algorithme à chacune de ses itérations. À l’échelle macroscopique de la grille par contre, où l’on peut appréhender d’un seul regard des centaines de cellules, on découvre alors des motifs émergents : certains groupes de cellules semblent se déplacer en diagonale, d’autres restent statiques et finissent par mourrir, d’autres encore se déplacent de façon erratique jusqu’à s’arrêter pour commencer à produire de nouvelles cellules, qui à leur tour se déplaceront vers de nouveaux groupes pour créer de nouveaux motifs...
 (//plein de schémas, avec renvoi à des vidéos et des animations, en attendant vous pouvez aller sur la page wikipédia du « game of life »)
 Observer une variation du *jeu de la vie*, c’est alors appréhender toute la complexité qui peut naître d’un algorithme aussi simple que celui défini par Conway. Si ce modèle mathématique d’ « automate cellulaire » sert aujourd’hui de support aux théories du chaos, de l’entropie et des systèmes complexes, il est ici intéressant parce qu’il ouvre la production algorithmique à un nouveau concept : l’émergence.
@@ -22,7 +22,8 @@ Vu en ces termes, la production algorithmique n’est alors pas forcément voué
 
 « Machines take me by surprise with great frequency. » — Alan Turing
 
-Le concept d’émergence pour finir se retrouve également dans un autre domaine : celui de la biologie. Si l’on considère un organisme vivant comme un système de molécules, et l’intégralité de ses comportements comme le résultat des interactions entre les molécules de ce système, alors on peut considérer la vie elle-même comme une propriété émergente d’un tel système. C’est quelque part ce que tend à modéliser Conway et son *jeu de la vie*.
+Il convient pour finir de re-placer le concept d’émergence dans le domaine où il est initialement apparu : celui de la biologie. 
+Si l’on considère un organisme vivant comme un système de molécules, et l’intégralité de ses comportements comme le résultat des interactions entre les molécules de ce système, alors on peut considérer la vie elle-même comme une propriété émergente d’un tel système. C’est quelque part ce que tend à modéliser Conway et son *jeu de la vie*.
 Il convient alors de poser une dernière question : peut-on appréhender l’algorithme comme un objet à partir duquel peut apparaître spontanément, de façon émergente, une forme de vie ?
 
 
