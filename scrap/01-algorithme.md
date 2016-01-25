@@ -10,7 +10,7 @@ On cite souvent le métier à tisser Jacquard (1801)(//images) comme l’une des
 Cet exemple permet donc d’élargir l’application de l’algorithme aux machines et à la mécanique, mais plus important encore, il permet d’introduire la notion d’automatisation qui justifie aujourd’hui l’algorithmisation de nos machines.
 
 Il convient d’enrichir notre définition de l’algorithme en y intégrant celle de Gérard Berry (//nbp : 1948—, chercheur français en science informatique) : 
-« Un algorithme, c’est tout simplement une façon de décrire dans ses moindres détails comment procéder pour faire quelque chose. Il se trouve que beaucoup d’actions mécaniques, toutes probablement, se prêtent bien à une telle décortication. Le but est d’évacuer la pensée du calcul, afin de le rendre exécutable par une machine numérique (ordinateur, …). On ne travaille donc qu’avec un reflet numérique du système réel avec qui l’algorithme interagit. »
+« Un algorithme, c’est tout simplement une façon de décrire dans ses moindres détails comment procéder pour faire quelque chose. Il se trouve que beaucoup d’actions mécaniques, toutes probablement, se prêtent bien à une telle décortication. Le but est d’évacuer la pensée du calcul, afin de le rendre exécutable par une machine numérique (ordinateur, …). »
 
 En « évacuant la pensée du calcul », l’algorithme permet d’évacuer l’implication de l’homme à l’égard de son exécution, et nous offre la possibilité d’automatiser un grand nombre de processus qui jusque-là nécessitaient l’intervention humaine. 
 
