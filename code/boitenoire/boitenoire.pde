@@ -6,7 +6,7 @@ PGraphics blob, gradient, splatter;
 boolean SHOW_DITHER = false;
 
 void setup(){
-	size(641, 411);
+	size(991, 616);
 	// 320*410 = 1 page
 	// 640*410 = 2 pages
 

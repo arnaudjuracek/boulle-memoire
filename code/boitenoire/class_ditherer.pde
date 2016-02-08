@@ -7,7 +7,6 @@ public class Ditherer{
 
 	Ditherer(){}
 
-
 	public PImage make(PGraphics input){
 		PGraphics pg = createGraphics(input.width, input.height);
 			pg.beginDraw();
@@ -69,7 +68,7 @@ public class Ditherer{
 						g = threshold >= green ? 0 : 255,
 						b = threshold >= blue ? 0 : 255;
 					c = (r << 16) | (g << 8) | b;
-					if(brightness(c)==0) c = color(255);
+					if(brightness(c)==0) c = color(255, 0);
 				}else c = color(int((threshold < (red + green + blue) / 3.0))*255);
 
 

@@ -83,7 +83,6 @@ public class Ditherer{
 
 	Ditherer(){}
 
-
 	public PImage make(PGraphics input){
 		PGraphics pg = createGraphics(input.width, input.height);
 			pg.beginDraw();
@@ -145,7 +144,7 @@ public class Ditherer{
 						g = threshold >= green ? 0 : 255,
 						b = threshold >= blue ? 0 : 255;
 					c = (r << 16) | (g << 8) | b;
-					if(brightness(c)==0) c = color(255);
+					if(brightness(c)==0) c = color(255, 0);
 				}else c = color(PApplet.parseInt((threshold < (red + green + blue) / 3.0f))*255);
 
 
@@ -181,9 +180,7 @@ public class Ditherer{
 }
 public void spawn(){
 	int x = 0,
-		y = 0,
-		px = 0,
-		py = 0;
+		y = PApplet.parseInt(blob.height*.5f);
 
 	float tightness = random(0.5f, 1.0f);
 	float curviness = random(0.8f, 1.0f);
@@ -197,15 +194,15 @@ public void spawn(){
 			blob.vertex(0, y+=random(0, blob.height*.5f));
 			do{
 				x += random(50*tightness, 200*tightness);
-				y += (y<0) ? random(200*curviness) : random(-100*curviness, 100*curviness);
+				y += (y>blob.height*.9f) ? random(-200*curviness) : ( (y<blob.height*.1f) ? random(200*curviness) : random(-100*curviness, 100*curviness) );
 				blob.curveVertex(x, y);
 			}while(x<blob.width);
 			blob.curveVertex(x+=100, y+=random(100));
 
-			y += PApplet.parseInt(blob.height*.25f);
+			y = PApplet.parseInt(blob.height*.5f);
 			do{
 				x -= random(50*tightness, 200*tightness);
-				y += (y<0) ? random(200*curviness) : random(-100*curviness, 100*curviness);
+				y += (y>blob.height*.9f) ? random(-200*curviness) : ( (y<blob.height*.1f) ? random(200*curviness) : random(-100*curviness, 100*curviness) );
 				blob.curveVertex(x, y);
 			}while(x>0);
 			blob.curveVertex(x-=100, y+=random(-100));
@@ -216,9 +213,14 @@ public void spawn(){
 	blob.endDraw();
 }
 public void gradientize(){
+	// colorMode(HSB);
+	// color
+	// 	c1 = color(random(255), 255, 255*.9),
+	// 	c2 = color(random(255), 255, 255*.9);
+
 	int
-		c1 = color(random(255), 0, random(255)),
-		c2 = color(0, random(255), random(255));
+		c1 = color(random(255), 0, random(127)),
+		c2 = color(0, random(255), random(127));
 
 	ArrayList<PVector> points = new ArrayList<PVector>();
 	int x = 0, y = -200;
@@ -231,6 +233,7 @@ public void gradientize(){
 	}while(y<gradient.height);
 
 	gradient.beginDraw();
+		gradient.background(0);
 		for(int _x=-200; _x<gradient.width + 200; _x+=2){
 			float inter = map(_x, -200, gradient.width + 200, 0, 1);
 			int c = lerpColor(c1, c2, inter);
@@ -272,7 +275,7 @@ public void splat(){
 		splatter.image(gradient, 0, 0);
 	splatter.endDraw();
 }
-  public void settings() { 	size(641, 411); }
+  public void settings() { 	size(991, 616); }
   static public void main(String[] passedArgs) {
     String[] appletArgs = new String[] { "boitenoire" };
     if (passedArgs != null) {

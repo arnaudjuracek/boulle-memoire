@@ -1,7 +1,12 @@
 void gradientize(){
+	// colorMode(HSB);
+	// color
+	// 	c1 = color(random(255), 255, 255*.9),
+	// 	c2 = color(random(255), 255, 255*.9);
+
 	color
-		c1 = color(random(255), 0, random(255)),
-		c2 = color(0, random(255), random(255));
+		c1 = color(random(255), 0, random(127)),
+		c2 = color(0, random(255), random(127));
 
 	ArrayList<PVector> points = new ArrayList<PVector>();
 	int x = 0, y = -200;
@@ -14,6 +19,7 @@ void gradientize(){
 	}while(y<gradient.height);
 
 	gradient.beginDraw();
+		gradient.background(0);
 		for(int _x=-200; _x<gradient.width + 200; _x+=2){
 			float inter = map(_x, -200, gradient.width + 200, 0, 1);
 			color c = lerpColor(c1, c2, inter);
