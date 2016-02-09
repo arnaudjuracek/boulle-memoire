@@ -1,18 +1,11 @@
-#Conclusion (work in progress)
+#Conclusion
 
-// récapitulatif des limites et paradoxes de l’algorithme
-+ suite d’instructions, donc déterminés
-+ en tant qu’objet d’intention, l’intelligence est transféré en amont du process de conception algorithmique
-+ l’exécution est mécanique, et ne nécessite pas l’intelligence
-
-// l’algorithme comme objet de l’esthétique
-+ Process vs produit **(Conditional Design)**
-+ Code poetry
-+ Vente aux enchères d’algorithmes
-
-// rapport à l’homme
-+ Démarchage téléphonique : l’Homme suit objectivement un algorithme : pas de sensibilité
-+ Les coolies de la pop économie (article sur comment Facebook embauche des Philippins pour modérer le contenu) + les MTurks (des personnes chargées de répondre à des questions qu’un algorithme n’est pas capable de traiter) : devenons-nous au service de l’algorithme ? Est-ce un moyen de lui apporter une sensibilité ? Si oui, est-ce que c’est parce qu’il n’est pas capable de communiquer à un niveau sensible ?
-
-// ouverture vers le projet :
-Le test de Turing est chaque année plus facile à passer pour les algos : est-ce parce que ils se rapprochent de l’homme, ou au contraire parce que l’homme se rapproche d’eux ?
+L’algorithme est un objet d’intention.Défini comme une suite d’instructions permettant de produire un output à partir d’un input, il est à considérer comme un objet cristallisant l’intention de l’algorithmicien. 
+L’algorithme prend ainsi sa place dans un paradigme déterministe, où seul la captation d’un hasard —réel ou simulé— pourra le détourner de son but initial. Ce détournement reste a priori déterminé.L’algorithme est un outil de rationalisation.Cette rationalisation est nécessaire à la bonne conduite de l’exécution de l’algorithme, qui ne peut laisser place à la confusion, sous peine de bug. 
+Cette nécessité de désambiguïsation oblige à la décomposition systématique des phénomènes en petits morceaux compréhensibles par l’algorithme, et ampute une partie de la complexité des objets algorithmisés. Elle est cependant un prérequis à cette algorithmisation.L’algorithme est un objet d’instructions.Quelle que soit la forme sous laquelle l’algorithme s’écrit, il porte en son être une partie instructionnelle. Qu’elles soient conditionnelles, déclaratives ou impératives, ces instructions traduisent l’intention première et permettent de manipuler l’input pour le faire output. L’algorithme est systémique.En tant que système complexe, son tout est plus que la somme de ses parties. S’il est important de réussir à décomposer les différentes propriétés qui font de l’algorithme ce qu’il est, cela ne suffit pas à en donner une vision holistique. 
+Ce n’est qu’en l’appréhendant par le prisme du concept d’émergence que nous pouvons embrasser sa complexité. L’algorithme devient alors cet objet fascinant duquel peut spontanément naître des phénomènes qui ne résultent pas simplement de l’intention, de la rationalisation ou de l’instruction, mais de la subtile relation de ces trois concepts.L’algorithme devient alors un objet de surprise.Et en tant que tel, il appelle à devenir une nouvelle méthodologie de production et de création. 
+Parce qu’il est intentionnel, il surprend par sa capacité à se détacher de son but premier, et devient un outil d’expérimentation et de sérendipité.
+Parce qu’il est rationnel, il surprend lorsqu’il se trompe et bug, et de la froide perfection qu’il incarne naît une sensibilité de l’erreur.
+Parce qu’il est instructionnel, il offre la possibilité de concevoir des systèmes aux interactions si complexes qu’ils échappent à leur créateur, et surprennent en prenant vie au-delà de leur conception première.Parce qu’il est défini enfin par toutes ces propriétés tout en étant capable de s’en détacher, l’algorithme devient un formidable outil de l’intelligence.
+En transférant cette intelligence en amont de son processus de conception, en la cristallisant dans son intention et en l’exprimant dans son exécution, l’algorithme appelle alors au lâcher prise.Créer par l’algorithme, ce n’est alors pas simplement concevoir une intention, rationaliser les phénomènes qu’elle met en jeu et la traduire en termes d’instructions. 
+C’est avant tout concevoir des systèmes, et espérer qu’ils dépassent notre propre humanité, s’exprimant au-delà nos perceptions sensibles et rationnelles.« Here the designer must intervene, he must in a sense aim at a larger whole; he must not continue to carry out the single task so much as create structures from which single solutions can be derived. This adds to the work of design a new dimension of planning. »
